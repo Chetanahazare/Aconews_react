@@ -1,4 +1,4 @@
-# News App
+# AcoNews App
 
 ![](https://github.com/simranlotey/react-news-app/blob/master/src/components/Images/demo.png)
 
